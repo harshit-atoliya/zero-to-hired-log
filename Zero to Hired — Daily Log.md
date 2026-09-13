@@ -1,5 +1,16 @@
 # Zero to Hired — Daily Log
 
+## Day 13 — Sep 13,2026
+- Context: Family event (relative's function + dosa party) — limited study time.
+
+- Built: A date-difference calculator, given as a task by my sister.
+
+- Learned:
+- The `datetime` module, specifically `datetime.strptime()` for parsing date strings into `datetime` objects — used the `"%Y-%m-%d"` format string.
+- Wrapped the parsing logic in `try`/`except` to catch invalid date input, prevent the program from crashing, and print a clearer error message instead of a raw traceback.
+
+- Takeaway: First real instance of defensive coding — anticipating bad input instead of assuming the user always types it correctly.
+
 ## Day 12 — Sep 12,2026
 - Learned: try/except, map/filter/reduce, enumerate, list comprehension, lambda, virtual environments
 
