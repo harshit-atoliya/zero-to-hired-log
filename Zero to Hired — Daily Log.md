@@ -1,7 +1,9 @@
 # Zero to Hired — Daily Log
 
+## Day 14 — Sep 14, 2026
+- Built: Extended yesterday's date-difference calculator to also return the difference in months and years, not just days.
+
 ## Day 13 — Sep 13,2026
-- Context: Family event (relative's function + dosa party) — limited study time.
 
 - Built: A date-difference calculator, given as a task by my sister.
 
