@@ -1,5 +1,8 @@
 # Zero to Hired — Daily Log
 
+## Day 15 — Sep 15,2026
+- Learned: Git, GitHub, GitHub desktop, Git Commands(add, init, push, pull, status, branch)
+
 ## Day 14 — Sep 14, 2026
 - Built: Extended yesterday's date-difference calculator to also return the difference in months and years, not just days.
 
