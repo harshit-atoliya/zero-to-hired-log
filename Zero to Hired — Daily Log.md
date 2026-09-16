@@ -1,5 +1,14 @@
 # Zero to Hired — Daily Log
 
+## Day 16 — Sep 16, 2026
+- Learned: SQL — `SELECT`, `WHERE`, `IN`, comparison operators, `LIKE`, `ORDER BY` (ASC/DESC), `LIMIT`, `OFFSET`; Python DB connectivity — connection objects, cursors, `execute()`, `fetchall()`
+
+- Built: A Python program that connects to a database and runs real queries against it — went past SQLBolt's sandbox into an actual working connection.
+
+- Tooling: Installed MySQL + MySQL Workbench
+
+- Also: Added comments to the mini-projects repo files
+
 ## Day 15 — Sep 15,2026
 - Learned: Git, GitHub, GitHub desktop, Git Commands(add, init, push, pull, status, branch)
 
