@@ -1,9 +1,9 @@
 # Zero to Hired — Daily Log
 
 ## Day 17 — Sep 17, 2026
-**Learned:** `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying columns after a table's created
-**Built:** Word Guessing Game
-**Key takeaway:** `JOIN` over two separate queries + manual matching — faster and more efficient
+- Learned: `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying columns after a table's created
+- Built:** Word Guessing Game
+- Key takeaway: `JOIN` over two separate queries + manual matching — faster and more efficient
 
 ## Day 16 — Sep 16, 2026
 - Learned: SQL — `SELECT`, `WHERE`, `IN`, comparison operators, `LIKE`, `ORDER BY` (ASC/DESC), `LIMIT`, `OFFSET`; Python DB connectivity — connection objects, cursors, `execute()`, `fetchall()`
