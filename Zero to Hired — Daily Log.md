@@ -1,5 +1,15 @@
 # Zero to Hired — Daily Log
 
+## Day 18 — Sep 18, 2026
+- Main focus: Flask and backend basics, but the day drifted into a side build: "Friday" — a voice assistant using wake-word detection, speech-to-text, TTS, and app launching.
+- Progress: started Flask, explored routing, and got a minimal app running, but the real Flask agenda is still incomplete.
+- Friday included: auto-launch on login via a `.bat` file, greeting + task listing, opening VS Code/Claude/Gemini/ChatGPT, and background music. `pyttsx3` was attempted and abandoned after it kept failing; Windows TTS was used instead.
+- Environment: Python was downgraded to 3.12 for compatibility, and this should be checked to confirm whether it was limited to a separate venv or changed the system install.
+- Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before anything new starts.
+
+## Day 17 — Sep 17, 2026
+- Continued with Python/backend learning and kept the main focus on the assigned curriculum rather than side experiments.
+
 ## Day 16 — Sep 16, 2026
 - Learned: SQL — `SELECT`, `WHERE`, `IN`, comparison operators, `LIKE`, `ORDER BY` (ASC/DESC), `LIMIT`, `OFFSET`; Python DB connectivity — connection objects, cursors, `execute()`, `fetchall()`
 
