@@ -8,7 +8,13 @@
 - Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before anything new starts.
 
 ## Day 17 — Sep 17, 2026
-- Continued with Python/backend learning and kept the main focus on the assigned curriculum rather than side experiments.
+- Learned: `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying columns after a table's created
+  
+- Built: Word Guessing Game
+  
+- Key takeaway: `JOIN` over two separate queries + manual matching — faster and more efficient
+
+- Our streak is broken because , I am updating this file at 12:28AM (00:28) in the night, it takes me 5 minutes to understand why it is broken. 
 
 ## Day 16 — Sep 16, 2026
 - Learned: SQL — `SELECT`, `WHERE`, `IN`, comparison operators, `LIKE`, `ORDER BY` (ASC/DESC), `LIMIT`, `OFFSET`; Python DB connectivity — connection objects, cursors, `execute()`, `fetchall()`
