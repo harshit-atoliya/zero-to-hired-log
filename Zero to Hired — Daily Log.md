@@ -1,7 +1,10 @@
 # Zero to Hired — Daily Log
 
+## Day 19 — Sep 19, 2026
+- Travel day: spent most of the day traveling, so there was no proper study session or deep coding block.
+- Planned focus: continue with Flask and backend basics once the travel is over.
+
 ## Day 18 — Sep 18, 2026
-- Travel day: spent much of the day on the move, so the planned Flask work was interrupted and the routine was less focused than usual.
 - Main focus: Flask and backend basics, but the day drifted into a side build: "Friday" — a voice assistant using wake-word detection, speech-to-text, TTS, and app launching.
 - Progress: started Flask, explored routing, and got a minimal app running, but the real Flask agenda is still incomplete.
 - Friday included: auto-launch on login via a `.bat` file, greeting + task listing, opening VS Code/Claude/Gemini/ChatGPT, and background music. `pyttsx3` was attempted and abandoned after it kept failing to work reliably.
