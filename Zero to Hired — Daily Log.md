@@ -1,5 +1,9 @@
 # Zero to Hired — Daily Log
 
+## Day 20 — Sep 20, 2026
+- Off day: took a break from study and coding to rest and recharge.
+- No major progress on the technical track today; kept it light and focused on recovery.
+
 ## Day 19 — Sep 19, 2026
 - Travel day: spent most of the day traveling, so there was no proper study session or deep coding block.
 - Planned focus: continue with Flask and backend basics once the travel is over.
@@ -7,12 +11,12 @@
 ## Day 18 — Sep 18, 2026
 - Main focus: Flask and backend basics, but the day drifted into a side build: "Friday" — a voice assistant using wake-word detection, speech-to-text, TTS, and app launching.
 - Progress: started Flask, explored routing, and got a minimal app running, but the real Flask agenda is still incomplete.
-- Friday included: auto-launch on login via a `.bat` file, greeting + task listing, opening VS Code/Claude/Gemini/ChatGPT, and background music. `pyttsx3` was attempted and abandoned after it kept failing to work reliably.
+- Friday included: auto-launch on login via a `.bat` file, greeting + task listing, opening VS Code/Claude/Gemini/ChatGPT, and background music. `pyttsx3` was attempted and abandoned after it kept failing to behave reliably.
 - Environment: Python was downgraded to 3.12 for compatibility, and this should be checked to confirm whether it was limited to a separate venv or changed the system install.
-- Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before a real backend routine is established.
+- Reflection: today was a real example of drifting off the assigned track. Flask was the actual task, but an exciting side project took over the day. The Flask work still needs to be finished before a proper streak can resume.
 
 ## Day 17 — Sep 17, 2026
-- Learned: `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying column names and table structures.
+- Learned: `INNER JOIN`, aggregates (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`), `ORDER BY` (ASC/DESC), `GROUP BY`; importing `sqlite3` and creating a connection; SQLite's limited support for modifying columns and rows.
   
 - Built: Word Guessing Game
   
